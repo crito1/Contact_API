@@ -1,0 +1,14 @@
+C:\Users\Andrew Curran\Desktop\ContactAPI\ContactAPI\ContactAPI\bin\Debug\netcoreapp2.2\ContactAPI.deps.json
+C:\Users\Andrew Curran\Desktop\ContactAPI\ContactAPI\ContactAPI\bin\Debug\netcoreapp2.2\ContactAPI.runtimeconfig.json
+C:\Users\Andrew Curran\Desktop\ContactAPI\ContactAPI\ContactAPI\bin\Debug\netcoreapp2.2\ContactAPI.runtimeconfig.dev.json
+C:\Users\Andrew Curran\Desktop\ContactAPI\ContactAPI\ContactAPI\bin\Debug\netcoreapp2.2\ContactAPI.dll
+C:\Users\Andrew Curran\Desktop\ContactAPI\ContactAPI\ContactAPI\bin\Debug\netcoreapp2.2\ContactAPI.pdb
+C:\Users\Andrew Curran\Desktop\ContactAPI\ContactAPI\ContactAPI\obj\Debug\netcoreapp2.2\ContactAPI.csprojAssemblyReference.cache
+C:\Users\Andrew Curran\Desktop\ContactAPI\ContactAPI\ContactAPI\obj\Debug\netcoreapp2.2\ContactAPI.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Curran\Desktop\ContactAPI\ContactAPI\ContactAPI\obj\Debug\netcoreapp2.2\ContactAPI.RazorAssemblyInfo.cache
+C:\Users\Andrew Curran\Desktop\ContactAPI\ContactAPI\ContactAPI\obj\Debug\netcoreapp2.2\ContactAPI.RazorAssemblyInfo.cs
+C:\Users\Andrew Curran\Desktop\ContactAPI\ContactAPI\ContactAPI\obj\Debug\netcoreapp2.2\ContactAPI.AssemblyInfoInputs.cache
+C:\Users\Andrew Curran\Desktop\ContactAPI\ContactAPI\ContactAPI\obj\Debug\netcoreapp2.2\ContactAPI.AssemblyInfo.cs
+C:\Users\Andrew Curran\Desktop\ContactAPI\ContactAPI\ContactAPI\obj\Debug\netcoreapp2.2\ContactAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Andrew Curran\Desktop\ContactAPI\ContactAPI\ContactAPI\obj\Debug\netcoreapp2.2\ContactAPI.dll
+C:\Users\Andrew Curran\Desktop\ContactAPI\ContactAPI\ContactAPI\obj\Debug\netcoreapp2.2\ContactAPI.pdb

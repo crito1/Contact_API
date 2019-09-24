@@ -61,7 +61,7 @@ namespace ContactAPI.Controllers
         }
 
 
-        //GET: api/Contact
+        //POST: api/Contact
         [HttpPost]
         public async Task<ActionResult<Contact>> PostContact(Contact contact)
         {
